@@ -1,4 +1,8 @@
-class Story {}
+class Story {
+  String storyTitle;
+  String choice1;
+  String choice2;
+}
 
 //TODO: Step 2 - Create a new class called Story.
 
